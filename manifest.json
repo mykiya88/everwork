@@ -1,0 +1,32 @@
+{
+  "name": "everWORK — 에버그로우 업무 플랫폼",
+  "short_name": "everWORK",
+  "description": "점검 실적 · 경비 · 근무 달력 · 공지를 한 곳에서",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#022650",
+  "theme_color": "#022650",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
